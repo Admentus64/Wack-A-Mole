@@ -1,0 +1,23 @@
+--- Game & Code Created By ---
+Robert Willem Hallink
+
+--- Music ---
+ARCADE PUZZLER
+By Eric Matyas
+Island sunflower
+By Spicy_Seal (made in BeepBox)
+
+--- Game Over Theme ---
+Duck Hunt (Nintendo)
+
+--- Sound Effects ---
+Button: Duck Hunt (Nintendo)
+Whack:  Duck Hunt (Nintendo)
+
+--- Animals ---
+Bird Beak Parrot Animation (Kmart2)
+Monty Mole (Nintendo)
+
+--- Background ---
+Smash and Slash: Nonstop Whack a Mole Game
+(free app on Amazon)
